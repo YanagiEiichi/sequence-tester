@@ -10,5 +10,17 @@
   "license": "MIT",
   "devDependencies": {
     "ui-tester": "~1.1.3"
-  }
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YanagiEiichi/sequence-tester.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YanagiEiichi/sequence-tester/issues"
+  },
+  "homepage": "https://github.com/YanagiEiichi/sequence-tester#readme"
 }
