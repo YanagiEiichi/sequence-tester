@@ -1,7 +1,7 @@
 {
-  "name": "",
+  "name": "sequence-tester",
   "version": "0.1.0",
-  "description": "",
+  "description": "sequence tester",
   "main": "index.js",
   "scripts": {
     "test": "ui-tester-start tests"
@@ -9,6 +9,6 @@
   "author": "YanagiEiichi <admin@web-tinker.com>",
   "license": "MIT",
   "devDependencies": {
-    "ui-tester": "~1.1.2"
+    "ui-tester": "~1.1.3"
   }
 }

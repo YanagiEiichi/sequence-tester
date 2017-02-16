@@ -1,0 +1,11 @@
+<script src="/tester.js"></script>
+<script src="/index.js"></script>
+<script>
+let st = new SequenceTester([ Boolean, Number, String ]);
+
+st.assert(true);
+st.assert(123);
+st.assert('hehe');
+
+Tester.feedback(st);
+</script>

@@ -1,0 +1,11 @@
+<script src="/tester.js"></script>
+<script src="/index.js"></script>
+<script>
+let st = new SequenceTester([ 1, /\d/, 3 ]);
+
+st.assert(1);
+st.assert(2);
+st.assert(3);
+
+Tester.feedback(st);
+</script>
